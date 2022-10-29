@@ -17,6 +17,6 @@ If you find yourself almost like me then welcome to the club 😊
 
 <p align="right">
 <a href="https://linkedin.com/in/el-amrani-shakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-amrani-shakir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/el-amrani-chakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="el-amrani-chakir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12919545/el-amrani-chakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="el-amrani-chakir" height="30" width="40" /></a>
 <a href="https://www.behance.net/amranich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="amranich" height="30" width="40" /></a>
 </p>
