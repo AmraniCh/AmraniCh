@@ -10,8 +10,6 @@ Currently, I work for an email marketing company as a **Software Developer** in 
 
 🔧 I enjoy every day learning about new internet and security protocols, about networking, and programming languages and frameworks internals, and in the near future, I plan to post articles on these topics and share what I've learned with others.
 
-If I'm not in the office working, you can find me either sleeping 😴, or trying to figure out and understand some internet protocol how it works, but for most of the time you can find me digging into the source code of open source projets and keep asking my self, *"What the heck is this ?"*, *"Why is this code written in this way rather than another ?"*, *"Why this class is final ?"*
-
 This was a short brief about me, I'm looking forward to new opportunities and projects, if you have something for me or for the benefit of the world don't hesitate to contact me.
 
 If you find yourself almost like me then welcome to the club 😊
