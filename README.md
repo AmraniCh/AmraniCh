@@ -1,39 +1,6 @@
-### Hey 👋
+<p align="center">
 
-I'm Shakir, a software developer based in Tangier, Morocco. I love understanding how things work behind the scenes and using this knowledge to solve problems and build better software.
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/2713004e-c5b1-49de-befc-b934cb24c7ca">
 
-🎓 Recently, I graduated with a bachelor's degree in software and web development with the highest honors.
+</p>
 
-Currently, I work for an email marketing company as a **Software Developer** in the IT department.
-
-💗 Since I've discovered GitHub, I've always had a **strong desire** to work on open source projects that benefit everyone, and to contribute in my part to the evolution of technology in the world.
-
-🔧 I enjoy every day learning about new internet and security protocols, about networking, and programming languages and frameworks internals, and in the near future, I plan to post articles on these topics and share what I've learned with others.
-
-This was a short brief about me, I'm looking forward to new opportunities and projects, if you have something for me or for the benefit of the world don't hesitate to contact me.
-
-If you find yourself almost like me then welcome to the club 😊
-
-💬 My Favorite Quote : <br>
-"Don't imitate, understand"
-
-:mailbox: Reach me out!
-
-<a href="https://amranich.dev">
-  <img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="el-amrani-shakir" width="25" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/el-amrani-shakir">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="el-amrani-shakir" width="25" />
-</a>
-&nbsp;
-<a href="https://stackoverflow.com/users/12919545/el-amrani-chakir">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" alt="el-amrani-shakir" width="25" />
-</a>
-&nbsp;
-<a href="https://www.behance.net/amranich">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" alt="el-amrani-shakir" width="25" />
-</a>
-<a href="https://ko-fi.com/amranich">
-  <img align="right" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" alt="el-amrani-shakir" width="160" height="25" />
-</a>
