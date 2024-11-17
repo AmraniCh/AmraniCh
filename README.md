@@ -1,6 +1,6 @@
 <p align="center">
 
-![1729984166334](https://github.com/user-attachments/assets/797ed2a6-2821-457a-b0b1-5f7fa2616910)
+<img width="1584" alt="LinkedIn cover - 3" src="https://github.com/user-attachments/assets/54dfbb84-20f8-4f73-8772-2f6b6674ee9b">
 
 </p>
 
