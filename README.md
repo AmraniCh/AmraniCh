@@ -5,7 +5,10 @@
 </p>
 
 <p align="right">
-
+  
+<img src="https://img.shields.io/github/stars/amranich">
+<img src="https://badges.pufler.dev/years/amranich">
+<img src="https://badges.pufler.dev/repos/amranich">
 <img src="https://badges.pufler.dev/visits/amranich/badge-it">
 
 </p>
