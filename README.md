@@ -1,6 +1,6 @@
 <p align="center">
 
-<img alt="AmraniCh GitHub Cover" src="https://github.com/user-attachments/assets/009e64c4-68d7-4ad0-ae52-93733ccf5c59">
+<img alt="AmraniCh GitHub Cover" src="./github-header-banner.png">
 
 </p>
 
