@@ -10,7 +10,3 @@
 <p align="center">
   Software Developer • Open Source • Backend & Infrastructure
 </p>
-
-<p align="center">
-🇲🇦 اَلْمَغْرِبُ أَوَّلًا وَأَخِيرًا وَلَا غَالِبَ إِلَّا اللهُ
-</p>
