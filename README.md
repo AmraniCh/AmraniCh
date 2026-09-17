@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" alt="AmraniCh GitHub Cover" src="https://github.com/user-attachments/assets/0707e3b2-e13b-4be0-bd19-c6c86b619cc7" />
+  <img width="900" alt="AmraniCh GitHub Cover" src="https://github.com/user-attachments/assets/16fb4212-b2f3-42e4-9a13-8df43bcc7479" />
 </p>
 
 <p align="center">
